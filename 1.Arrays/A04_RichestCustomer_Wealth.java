@@ -37,7 +37,6 @@
 //     1 <= m, n <= 50
 //     1 <= accounts[i][j] <= 100
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class A04_RichestCustomer_Wealth {
